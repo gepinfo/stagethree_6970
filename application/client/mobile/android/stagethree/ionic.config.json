@@ -1,0 +1,7 @@
+{
+  "name": "stagethree",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
